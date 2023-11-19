@@ -17,7 +17,6 @@ async function getHTML() {
 
     if (value !== null) {
         let htmlCode = value;
-        console.log(htmlCode);
     }
 }
 
